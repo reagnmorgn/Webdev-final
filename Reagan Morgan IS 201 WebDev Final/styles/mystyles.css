@@ -1,0 +1,33 @@
+h2{
+    color: black;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+
+
+.centervideo{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+h3{
+    color: black;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(204, 239, 250);
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.link{
+    font-style: bold;
+    text-decoration: underline;
+}
